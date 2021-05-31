@@ -478,7 +478,7 @@ border-radius: 1rem 1rem 0 0;
   }
 
   .cookies_banner{
-    animation: spawn 600ms 1000ms ease-in-out both 1;
+    animation: spawn 600ms 2000ms ease-in-out both 1;
     position: fixed;
     bottom: 0;
     background:rgba(210,210,215, 0.5);
